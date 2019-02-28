@@ -1,3 +1,0 @@
-pyquery
-urllib3
-codecs
