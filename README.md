@@ -61,6 +61,7 @@ Quick Links:
     - [Causal Inference](#management-causal)
     - [Statistics](#management-stat)
     - [Quantitative](#management-quant)
+    - [Data](#management-data)
 - [Operations](#operations)
     - [Failures and Anomalies](#operations-fail)
     - [Load and Capacity Management](#operations-load)
@@ -398,6 +399,14 @@ Predict volume of bonds.
 * [Process Mining](https://github.com/yesanton/Process-Sequence-Prediction-with-A-priori-knowledge) - Leveraging A-priori Knowledge in Predictive Business Process Monitoring
 * [TS Forecasting](https://github.com/khanhnamle1994/applied-machine-learning/tree/master/Time-Series-Forecasting) - Time series forecasting for important business applications.
 
+####
+
+<a name="management-data"></a>
+#### Data 
+* [Web Scraping (FirmAI)](www.firmai.org/data/) - Web scraping solutions for Facebook, Glassdoor, Instagram, Morningstar, Similarweb, Yelp, Spyfu, Linkedin, Angellist. 
+
+
+
 
 <a name="operations"></a>
 ## Operations
@@ -449,9 +458,9 @@ Overseas Company Land Ownership .
 
 <a name="public-dis"></a>
 #### Disaster Management
-* [Conflict Prediction](https://github.com/Polichinel/Master_Thesis) - Calculate the CLV using a Pareto/NBD model.
-* [Burglary Prediction](https://github.com/Polichinel/Master_Thesis) - Calculate the CLV using a Pareto/NBD model.
-* [Predicting Disease Outbreak](https://github.com/ab-bh/Disease-Outbreak-Prediction/blob/master/Disease%20Outbreak%20Prediction.ipynb) - Calculate the CLV using a Pareto/NBD model.
+* [Conflict Prediction](https://github.com/Polichinel/Master_Thesis) - Notebooks on conflict prediction.
+* [Burglary Prediction](https://github.com/Polichinel/Master_Thesis) - Spatio-Temporal Modelling for burglary prediction. 
+* [Predicting Disease Outbreak](https://github.com/ab-bh/Disease-Outbreak-Prediction/blob/master/Disease%20Outbreak%20Prediction.ipynb) - Machine Learning implementation based on multiple classifier algorithm implementations.
 * [Road accident prediction](https://github.com/leportella/federal-road-accidents) - Prediction on type of victims on federal road accidents in Brazil.
 * [Text Mining](https://github.com/rajaswa/Disaster-Management) - Disaster Management using Text mining.
 * [Twitter and disasters](https://github.com/paultopia/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb) - Try to correctly predict whether tweets that are about disasters..
