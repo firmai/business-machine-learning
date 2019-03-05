@@ -8,7 +8,7 @@
 
 A curated list of applied business machine learning (BML) and business data science (BDS) examples and libraries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
 
-***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS for [Accounting](#accounting), [Banking, Finance and Insurance](#bankfin), [Customer](#customer), [Employee](#employee), [Legal](#legal), [Management](#management), [Operations](#operations), [Public](#public) matters. 
+***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS for [Accounting](#accounting), [Banking, Finance and Insurance](#bankfin), [Customer](#customer), [Employee](#employee), [Legal](#legal), [Management](#management), [Operations](#operations) and [Public](#public) matters. 
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow).
 Also, a listed repository should be deprecated if:
