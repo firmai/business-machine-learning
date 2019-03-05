@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/firmai/business-machine-learning/raw/master/assets/BML%402x-704x454.png">
+  <img src="https://github.com/firmai/business-machine-learning/raw/master/assets/BML%402x-704x454.png">
 </p>
 ![alt text](https://github.com/firmai/business-machine-learning/raw/master/assets/BML%402x-704x454.png)
 
