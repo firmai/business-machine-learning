@@ -1,5 +1,9 @@
 # Business Machine Learning and Data Science Applications 
 
+
+<p align="center">
+  <img width="600" height="200" src="https://github.com/firmai/business-machine-learning/raw/master/assets/BML%402x-704x454.png">
+</p>
 ![alt text](https://github.com/firmai/business-machine-learning/raw/master/assets/BML%402x-704x454.png)
 
 A curated list of applied business machine learning (BML) and business data science (BDS) examples and libraries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
