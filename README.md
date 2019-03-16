@@ -465,7 +465,7 @@ Overseas Company Land Ownership .
 * [Burglary Prediction](https://github.com/Polichinel/Master_Thesis) - Spatio-Temporal Modelling for burglary prediction. 
 * [Predicting Disease Outbreak](https://github.com/ab-bh/Disease-Outbreak-Prediction/blob/master/Disease%20Outbreak%20Prediction.ipynb) - Machine Learning implementation based on multiple classifier algorithm implementations.
 * [Road accident prediction](https://github.com/leportella/federal-road-accidents) - Prediction on type of victims on federal road accidents in Brazil.
-* [Text Mining](https://github.com/rajaswa/Disaster-Management) - Disaster Management using Text mining.
+* [Text Mining](https://github.com/rajaswa/Disaster-Management-) - Disaster Management using Text mining.
 * [Twitter and disasters](https://github.com/paultopia/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb) - Try to correctly predict whether tweets that are about disasters..
 
 <a name="public-urban"></a>
