@@ -185,6 +185,7 @@ Also, a listed repository should be deprecated if:
 
 * [Deep Portfolio](https://github.com/DLColumbia/DL_forFinance) - Deep learning for finance 
 Predict volume of bonds.
+* [AI Trading](https://github.com/borisbanushev/stockpredictionai/blob/master/readme2.md) - Modern AI trading techniques.
 * [Corporate Bonds](https://github.com/ishank011/gs-quantify-bond-prediction) - Predicting the buying and selling volume of the corporate bonds.
 * [Simulation](https://github.com/chenbowen184/Computational_Finance) - Investigating simulations as part of computational finance. 
 * [Industry Clustering](https://github.com/SeanMcOwen/FinanceAndPython.com-ClusteringIndustries) - Project to cluster industries according to financial attributes.
