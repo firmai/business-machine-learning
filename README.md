@@ -31,7 +31,7 @@ Also, a listed repository should be deprecated if:
 | Mining, Oil & Gas Extraction     | Miscellaneous                    | Professional & Technical Services |
 | Real Estate, Rental & Leasing    | Technology                       | Telecommunications                |
 | Transportation & Warehousing     | Utilities                        | Wholesale & Retail                |
-| Justice                          |                                  |                                   |
+| Justice & Law                    | Regulation                       |                                   |
 
 
 
