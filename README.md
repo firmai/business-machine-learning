@@ -16,6 +16,21 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
+If there is any willing contributors out there to help first populate and then maintain a Python analytics section in the following industries, please contact me. 
+
+
+
+| Accommodation & Food             | Agriculture & Forestry           | Banking & Insurance               |
+| -------------------------------- | -------------------------------- | --------------------------------- |
+| Biotechnological & Life Sciences | Construction & Engineering       | Education & Research              |
+| Emergency & Police               | Entertainment, Recreation & Arts | Goods & Manufacturing             |
+| Government and Public Works      | Healthcare and Social Assitance  | Media & Publishing                |
+| Mining, Oil & Gas Extraction     | Miscellaneous                    | Professional & Technical Services |
+| Real Estate, Rental & Leasing    | Technology                       | Telecommunications                |
+| Transportation & Warehousing     | Utilities                        | Wholesale & Retail                |
+| Justice                          |                                  |                                   |
+
+
 
 
 ## Table of Contents
