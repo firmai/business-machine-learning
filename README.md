@@ -23,15 +23,16 @@ Also, a listed repository should be deprecated if:
 </br>
 
 
-| Accommodation & Food             | Agriculture & Forestry           | Banking & Insurance               |
+| <!-- -->                         | <!-- -->                         | <!-- -->                          |
 | -------------------------------- | -------------------------------- | --------------------------------- |
+| Accommodation & Food             | Agriculture & Forestry           | Banking & Insurance               |
 | Biotechnological & Life Sciences | Construction & Engineering       | Education & Research              |
 | Emergency & Police               | Entertainment, Recreation & Arts | Goods & Manufacturing             |
 | Government and Public Works      | Healthcare and Social Assitance  | Media & Publishing                |
 | Mining, Oil & Gas Extraction     | Miscellaneous                    | Professional & Technical Services |
 | Real Estate, Rental & Leasing    | Technology                       | Telecommunications                |
 | Transportation & Warehousing     | Utilities                        | Wholesale & Retail                |
-| Justice & Law                    | Regulation                       |                                   |
+| Justice, Law and Regulations     | Accounting & Auditing            |                                   |
 
 
 
