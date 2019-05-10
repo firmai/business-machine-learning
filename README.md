@@ -10,7 +10,7 @@ A curated list of applied business machine learning (BML) and business data scie
 
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS for [Accounting](#accounting), [Customer](#customer), [Employee](#employee), [Legal](#legal), [Management](#management), [Operations](#operations). 
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow).
+If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/).
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
