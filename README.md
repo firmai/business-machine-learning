@@ -8,7 +8,7 @@
 
 A curated list of applied business machine learning (BML) and business data science (BDS) examples and libraries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
 
-***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS for [Accounting](#accounting), [Banking, Finance and Insurance](#bankfin), [Customer](#customer), [Employee](#employee), [Legal](#legal), [Management](#management), [Operations](#operations) and [Public](#public) matters. 
+***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS for [Accounting](#accounting), [Customer](#customer), [Employee](#employee), [Legal](#legal), [Management](#management), [Operations](#operations). 
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow).
 Also, a listed repository should be deprecated if:
@@ -17,24 +17,6 @@ Also, a listed repository should be deprecated if:
 * Not committed for long time (2~3 years).
 
 </br>
-
-**Help Needed:** If there is any contributors out there willing to help first populate and then maintain a Python analytics section **in any one of the following sub/industries,** please get in contact with me. This is for https://github.com/firmai/industry-machine-learning/
-
-</br>
-
-
-| <!-- -->                         | <!-- -->                         | <!-- -->                          |
-| -------------------------------- | -------------------------------- | --------------------------------- |
-| Accommodation & Food             | Agriculture & Forestry           | Banking & Insurance               |
-| Biotechnological & Life Sciences | Construction & Engineering       | Education & Research              |
-| Emergency & Police               | Entertainment, Recreation & Arts | Goods & Manufacturing             |
-| Government and Public Works      | Healthcare and Social Assitance  | Media & Publishing                |
-| Mining, Oil & Gas Extraction     | Miscellaneous                    | Professional & Technical Services |
-| Real Estate, Rental & Leasing    | Technology                       | Telecommunications                |
-| Transportation & Warehousing     | Utilities                        | Wholesale & Retail                |
-| Justice, Law and Regulations     | Accounting & Auditing            |                                   |
-
-
 
 
 ## Table of Contents
@@ -50,15 +32,6 @@ Also, a listed repository should be deprecated if:
     - [Research and Articles](#accounting-ra)
     - [Websites](#accounting-web)
     - [Courses](#accounting-course)
-- [Banking, Finance and Insurance](#bankfin)
-    - [Consumer Financial](#bankfin-cf)
-    - [Management and Operations](#bankfin-mo)
-    - [Valuation](#bankfin-value)
-    - [Fraud](#bankfin-fraud)
-    - [Insurance and Risk](#bankfin-ir)
-    - [Trading and Investments](#bankfin-ti)
-    - [Physical](#bankfin-ph)
-    - [Data](#bankfin-data)
 - [Customer](#customer)
     - [Lifetime Value](#customer-clv)
     - [Segmentation](#customer-seg)
@@ -88,12 +61,6 @@ Also, a listed repository should be deprecated if:
     - [Failures and Anomalies](#operations-fail)
     - [Load and Capacity Management](#operations-load)
     - [Prediction Management](#operations-predict)
-- [Public](#public)
-    - [Social Policies](#public-social)
-    - [Election Analysis](#public-elect)
-    - [Disaster Management](#public-dis)
-    - [Urban Planning](#public-urban)
-    - [Utilities](#public-util)
 
 
 <!-- /MarkdownTOC -->
@@ -148,92 +115,6 @@ Also, a listed repository should be deprecated if:
 
 * [Computer Augmented Accounting](https://www.youtube.com/playlist?list=PLauepKFT6DK8TaNaq_SqZW4LIDJhCkZe2) - A video series from Rutgers University looking at the use of computation to improve accounting.
 * [Accounting in a Digital Era](https://www.youtube.com/playlist?list=PLauepKFT6DK8_Xun584UQPPsg1grYkWw0) - Another series by Rutgers investigating the effects the digital age will have on accounting.
-
-<a name="bankfin"></a>
-## Banking, Finance and Insurance
-
-<a name="bankfin-cv"></a>
-#### Consumer Finance
-
-* [Loan Acceptance](https://github.com/Paresh3189/Bankruptcy-Prediction-Growth-Modelling) - Classification and time-series analysis for loan acceptance. 
-* [Predict Loan Repayment](https://github.com/Featuretools/predict-loan-repayment) - Predict whether a loan will be repaid using automated feature engineering.
-* [Loan Eligibility Ranking](https://github.com/RealRadOne/Gyani-The-Loan-Eligibility-Predictor) - System to help the banks check if a customer is eligible for a given loan.
-* [Home Credit Default (FirmAI)](http://www.firmai.org/documents/Aggregator/#each-time-step-takes-30-seconds) - Predict home credit default. 
-* [Mortgage Analytics](https://github.com/abuchowdhury/Mortgage_Bank_Loan_Analtsics/blob/master/Mortgage%20Bank%20Loan%20Analytics.ipynb) - Extensive mortgage loan analytics.
-* [Credit Approval](https://github.com/IBM-Cloud-DevFest-2018/Data-Science-for-Banking/blob/master/02-CreditCardApprovalModel/CreditCardApprovalModel.ipynb) - A system for credit card approval. 
-* [Loan Risk](https://github.com/Brett777/Predict-Risk) - Predictive model to help to reduce charge-offs and losses of loans. 
-* [Amortisation Schedule (FirmAI)](http://www.firmai.org/documents/Amortization%20Schedule/) - Simple amortisation schedule in python for personal use.  
-
-
-<a name="bankfin-mo"></a>
-#### Management and Operation
-
-* [Credit Card](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/03_ipy_notebooks/clv_prediction.ipynb) - Estimate the CLV of credit card customers. 
-* [Survival Analysis](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Survival_Analysis.py) - Perform a survival analysis of customers.
-* [Next Transaction](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Customer_NextTransaction_Prediction.py) - Deep learning model to predict the transaction amount and days to next transaction. 
-* [Credit Card Churn](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Customer_NextTransaction_Prediction.py) - Predicting credit card customer churn.  
-* [Bank of England  Minutes](https://github.com/sekhansen/mpc_minutes_demo/blob/master/information_retrieval.ipynb) - Textual analysis over bank minutes. 
-
-<a name="bankfin-value"></a>
-#### Valuation
-
-* [Zillow Prediction](https://github.com/eswar3/Zillow-prediction-models) - Zillow valuation prediction as performed on Kaggle. 
-* [Real Estate](https://github.com/denadai2/real-estate-neighborhood-prediction) - Predicting real estate prices from the urban environment.
-* [Used Car](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/P1-UsedVehiclePricePrediction.ipynb) - Used vehicle price prediction.
-
-
-<a name="bankfin-fraud"></a>
-#### Fraud
-
-* [XGBoost](https://github.com/KSpiliop/Fraud_Detection) - Fraud Detection by tuning XGBoost hyper-parameters with Simulated Annealing
-* [Fraud Detection Loan in R](https://github.com/longtng/frauddetectionproject/blob/master/A%20Consideration%20Point%20of%20%20Fraud%20Detection%20in%20Bank%20Loans%20Project%20Code.ipynb) - Fraud detection in bank loans.
-* [AML Finance Due Diligence](https://github.com/Michaels72/AML-Due-Diligence/blob/master/AML_Finance_DD.ipynb) - Search news articles to do finance AML DD.
-* [Credit Card Fraud](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/03_ipy_notebooks/fraud_detection.ipynb) - Detecting credit card fraud. 
-
-<a name="bankfin-ir"></a>
-#### Insurance and Risk
-
-* [Bank Failure ](https://github.com/Shomona/Bank-Failure-Prediction/blob/master/Bank.ipynb) - Predicting bank failure. 
-* [Risk Management](https://github.com/andrey-lukyanov/Risk-Management) - Finance risk engagement course resources. 
-* [VaR GaN](https://github.com/hamaadshah/market_risk_gan_keras) - Estimate Value-at-Risk for market risk management using Keras and TensorFlow.
-* [Actuarial Sciences (R)](https://github.com/JSchelldorfer/ActuarialDataScience) - A range of actuarial tools in R. 
-
-
-<a name="bankfin-ti"></a>
-#### Trading and Investment
-
-* [Deep Portfolio](https://github.com/DLColumbia/DL_forFinance) - Deep learning for finance 
-Predict volume of bonds.
-* [AI Trading](https://github.com/borisbanushev/stockpredictionai/blob/master/readme2.md) - Modern AI trading techniques.
-* [Corporate Bonds](https://github.com/ishank011/gs-quantify-bond-prediction) - Predicting the buying and selling volume of the corporate bonds.
-* [Simulation](https://github.com/chenbowen184/Computational_Finance) - Investigating simulations as part of computational finance. 
-* [Industry Clustering](https://github.com/SeanMcOwen/FinanceAndPython.com-ClusteringIndustries) - Project to cluster industries according to financial attributes.
-* [Financial Modeling](https://github.com/MiyainNYC/Financial-Modeling/tree/master/codes) - HFT trading and implied volatility modeling. 
-* [Trend Following](http://inseaddataanalytics.github.io/INSEADAnalytics/ExerciseSet2.html) - A futures trend following portfolio investment strategy. 
-* [Financial Statement Sentiment](https://github.com/MAydogdu/TextualAnalysis) - Extracting sentiment from financial statements using neural networks.
-* [Applied Corporate Finance](https://github.com/chenbowen184/Data_Science_in_Applied_Corporate_Finance) - Studies the empirical behaviors in stock market.
-* [Market Crash Prediction](https://github.com/sarachmax/MarketCrashes_Prediction/blob/master/LPPL_Comparasion.ipynb) - Predicting market crashes using an LPPL model.
-* [NLP Finance Papers](https://github.com/chenbowen184/Research_Documents_Curation_with_NLP) - Curating quantitative finance papers using machine learning.
-* [ARIMA-LTSM Hybrid](https://github.com/imhgchoi/Corr_Prediction_ARIMA_LSTM_Hybrid) - Hybrid model to predict future price correlation coefficients of two assets
-* [Basic Investments](https://github.com/SeanMcOwen/FinanceAndPython.com-Investments) - Basic investment tools in python. 
-* [Basic Derivatives](https://github.com/SeanMcOwen/FinanceAndPython.com-Derivatives) - Basic forward contracts and hedging. 
-* [Basic Finance](https://github.com/SeanMcOwen/FinanceAndPython.com-BasicFinance) - Source code notebooks basic finance applications. 
-
-
-<a name="bankfin-ph"></a>
-#### Physical
-
-* [Bank Note Fraud Detection](https://github.com/apoorv-goel/Bank-Note-Authentication-Using-DNN-Tensorflow-Classifier-and-RandomForest) - Bank Note Authentication Using DNN Tensorflow Classifier and RandomForest.
-* [ATM Surveillance](https://github.com/ShreyaGupta08/InfyHack) - ATM Surveillance in banks use case.
-
-<a name="bankfin-data"></a>
-#### Data
-
-* [Employee Count SEC Filings](https://github.com/healthgradient/sec_employee_information_extraction) 
-* [SEC Parsing](https://github.com/healthgradient/sec-doc-info-extraction/blob/master/classify_sections_containing_relevant_information.ipynb) 
-* [Open Edgar](https://github.com/LexPredict/openedgar) 
-* [Rating Industries](http://www.ratingshistory.info/) 
-
 
 <a name="customer"></a>
 ## Customer
@@ -429,8 +310,6 @@ Predict volume of bonds.
 * [Web Scraping (FirmAI)](www.firmai.org/data/) - Web scraping solutions for Facebook, Glassdoor, Instagram, Morningstar, Similarweb, Yelp, Spyfu, Linkedin, Angellist. 
 
 
-
-
 <a name="operations"></a>
 ## Operations
 
@@ -458,47 +337,3 @@ Predict volume of bonds.
 * [Fight Delay Prediction](https://github.com/cavaunpeu/flight-delays/blob/master/notebooks/flight-prediction.ipynb) - Transfer learning for flight-delay prediction via variational autoencoders in Keras.
 * [Electric Fault Prediction](https://github.com/susano0/Electric-Fault-Prediction/blob/master/Fault_pred.ipynb) - Predict tripping at grid stations by applying simple machine learning algorithms.
 * [Popularity Prediction in R](https://github.com/s-mishra/featuredriven-hawkes/blob/master/code/marked_hawkes_point_process.ipynb) - Marked Hawkes Point Process .
-
-<a name="public"></a>
-## Public
-
-<a name="public-social"></a>
-#### Social Policies
-* [Triage](https://github.com/dssg/triage ) - General Purpose Risk Modeling and Prediction Toolkit for Policy and Social Good Problems.
-* [World Bank Poverty I](https://github.com/worldbank/ML-classification-algorithms-poverty/tree/master/notebooks) - A comparative assessment of machine learning classification algorithms applied to poverty prediction.
-* [World Bank Poverty II](https://github.com/avsolatorio/world-bank-pover-t-tests-solution) - Repository for the World Bank Pover-t Test Competition Solution
-Overseas Company Land Ownership .
-* [Overseas Company Land Ownership](https://github.com/Global-Witness/overseas-companies-land-ownership/blob/master/overseas_companies_land_ownership_analysis.ipynb) - Identifying foreign ownership in the UK.
-* [CFPB](https://github.com/MAydogdu/ConsumerFinancialProtectionBureau/blob/master/CFPB_Complaints_2017September.ipynb) - Consumer Finances Protection Bureau complaints analysis.
-* [Cannabis Legalisation Effect](https://github.com/tslindner/Effects-of-Cannabis-Legalization) - Effects of cannabis legalization on crime. 
-
-<a name="public-election"></a>
-#### Election Analysis
-* [Election Analysis](https://github.com/1jinwoo/DeepWave/blob/master/DR_Random_Forest.ipynb) - Election Analysis and Prediction Models
-* [American Election Causal](https://github.com/Akesari12/LS123_Data_Prediction_Law_Spring-2019/blob/master/labs/OLS%20for%20Causal%20Inference/OLS_Causal_Inference_solution.ipynb) - Using ANES data with causal inference models.
-* [Campaign Finance and Election Results](https://github.com/sfbrigade/datasci-campaign-finance/blob/master/notebooks/ML%20Campaign%20Finance%20and%20Election%20Results%20Example.ipynb) - Investigating the relation between campaign finance and subsequent election results. 
-
-
-<a name="public-dis"></a>
-#### Disaster Management
-* [Conflict Prediction](https://github.com/Polichinel/Master_Thesis) - Notebooks on conflict prediction.
-* [Burglary Prediction](https://github.com/Polichinel/Master_Thesis) - Spatio-Temporal Modelling for burglary prediction. 
-* [Predicting Disease Outbreak](https://github.com/ab-bh/Disease-Outbreak-Prediction/blob/master/Disease%20Outbreak%20Prediction.ipynb) - Machine Learning implementation based on multiple classifier algorithm implementations.
-* [Road accident prediction](https://github.com/leportella/federal-road-accidents) - Prediction on type of victims on federal road accidents in Brazil.
-* [Text Mining](https://github.com/rajaswa/Disaster-Management-) - Disaster Management using Text mining.
-* [Twitter and disasters](https://github.com/paultopia/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb) - Try to correctly predict whether tweets that are about disasters..
-
-<a name="public-urban"></a>
-#### Urban Planning
-* [Traffic Prediction](https://github.com/mratsim/McKinsey-SmartCities-Traffic-Prediction) - Multi attention recurrent neural networks for time-series (city traffic) 
-* [Predict Crashes](https://github.com/Data4Democracy/crash-model) - Crash prediction modeling application that leverages multiple data sources.
-* [Predict Household Poverty](https://github.com/Featuretools/predict-household-poverty) - Predict the poverty of households in Costa Rica using automated feature engineering.
-
-
-<a name="public-util"></a>
-#### Utilities
-* [Air Quality Prediction](https://github.com/txytju/air-quality-prediction) - Predict air quality(aq) in Beijing and London in the next 48 hours.
-* [Water Accounting](https://github.com/johnpfay/USWaterAccounting) - Assembles water budget data for the US from existing data source.
-* [Electricity French Distribution](http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/group_energy.html) - An analysis of electricity data provided by the French Distribution Network (RTE).
-
-
