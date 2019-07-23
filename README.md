@@ -124,7 +124,7 @@ Also, a listed repository should be deprecated if:
 <a name="customer-clv"></a>
 #### Lifetime Value
 * [Pareto/NBD Model](https://github.com/datascienceinc/oreilly-intro-to-predictive-clv/blob/master/oreilly-an-intro-to-predictive-clv-tutorial.ipynb) - Calculate the CLV using a Pareto/NBD model.
-* [Gamma-Gamma Model](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_Lab-solutions.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
+* [Gamma-Gamma Model](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_CoLab.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
 * [Cohort Analysis](https://github.com/iris9112/Customer-Segmentation/blob/master/Chapter1-Cohort_Analysis.ipynb) - Cohort analysis to group customers into mutually exclusive cohorts measured over time. 
 
  
@@ -192,7 +192,7 @@ Also, a listed repository should be deprecated if:
 <a name="employee-man"></a>
 #### Management
 * [Personality Prediction ](https://github.com/jcl132/personality-prediction-from-text) - Predict Big 5 Personality from text. 
-* [Salary Prediction Resume](https://github.com/Artifelse/Prediction-salary-on-the-base-of-the-resume/blob/master/NLP.ipynb) - Textual analyses over resume to predict appropriate salary.
+* [Salary Prediction Resume](https://github.com/Artifelse/Prediction-salary-on-the-base-of-the-resume/blob/master/NLP.ipynb) - Textual analyses over resume to predict appropriate salary [Project Disappeared, still a cool idea]
 * [Employee Review Analysis](https://github.com/jackyip1/Indeed-Reviews/blob/master/Python%20scripts/Indeed%20-%20Main.ipynb) - Review analytics for top 50 retail companies on Indeed.
 * [Diversity Analysis](https://github.com/mtfaye/Employee-Diversity-in-Tech/blob/master/Data%20Viz%20Special%20Edition.ipynb) - A simple analysis of gender and race disparity in the tech industry.
 * [Occupation Prediction](https://github.com/RashmiSingh24/OccuptionPrediction/blob/master/BurningGlass.ipynb) - Predict the likelihood that an occupation is analytical. 
