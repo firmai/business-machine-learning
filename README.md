@@ -72,6 +72,7 @@ Also, a listed repository should be deprecated if:
 
 
 <!-- /MarkdownTOC -->
+#### Also see [Python Business Analytics](https://github.com/firmai/python-business-analytics)
 
 <a name="accounting"></a>
 ## Accounting
