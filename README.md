@@ -39,7 +39,6 @@ Also, a listed repository should be deprecated if:
     - [Recommender](#customer-rec)
     - [Churn Prediction](#customer-cp)
     - [Sentiment](#customer-sent)
-    - [Demand Forcasting](#customer-df)
 - [Employee](#employee)
     - [Management](#employee-man)
     - [Performance](#employee-perf)
