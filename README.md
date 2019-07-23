@@ -1,4 +1,10 @@
 # Business Machine Learning and Data Science Applications 
+
+### Admin
+##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
+
+#### To encourage active participation, I have created a private repo where all future edits and entries will be made starting November 2019 after which this project will be deprecated. To join indefinitely you have to submit two unique open source python ML or DS projects to d.snow@firmai.org (unique to this list only, it needen't be your own).
+
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/business-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
 <p align="center">
@@ -8,10 +14,7 @@
 
 A curated list of applied business machine learning (BML) and business data science (BDS) examples and libraries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
 
-### Admin
-##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
-#### To encourage active participation, I have created a private repo where all future edits and entries will be made starting November 2019 after which this project will be deprecated. To join indefinitely you have to submit two unique open source python ML or DS projects to d.snow@firmai.org (unique to this list only, it needen't be your own).
 ---
 
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS for [Accounting](#accounting), [Customer](#customer), [Employee](#employee), [Legal](#legal), [Management](#management), [Operations](#operations). 
