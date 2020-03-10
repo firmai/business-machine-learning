@@ -8,7 +8,7 @@
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/business-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
 <p align="center">
-  <img src="https://github.com/firmai/business-machine-learning/raw/master/assets/BML%402x-704x454.png">
+  <img src="https://raw.githubusercontent.com/firmai/random-assets-two/master/assets/transparent_logo%202.png">
 </p>
 
 
