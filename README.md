@@ -6,7 +6,7 @@ Have a look at the newly started [FirmAI Medium](https://medium.com/firmai) publ
 
 ##### Instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
-#### To encourage active participation, I have created a private repo where all future edits and entries will be made starting November 2019 after which this project will be deprecated. To join indefinitely you have to submit two unique open source python ML or DS projects to d.snow@firmai.org (unique to this list only, it needen't be your own).
+
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/business-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
