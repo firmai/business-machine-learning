@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/firmai/random-assets-two/master/assets/transparent_logo%202.png">
-</p>
-
 # Business Machine Learning and Data Science Applications 
 
 ### Admin
