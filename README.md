@@ -132,8 +132,7 @@ Also, a listed repository should be deprecated if:
 
 <a name="customer-clv"></a>
 #### Lifetime Value
-* [Pareto/NBD Model](https://github.com/datascienceinc/oreilly-intro-to-predictive-clv/blob/master/oreilly-an-intro-to-predictive-clv-tutorial.ipynb) - Calculate the CLV using a Pareto/NBD model.
-* [Gamma-Gamma Model](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_CoLab.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
+* [Pareto/NBD Model](https://github.com/zabahana/Customer-LifeTime-Value-Analysis/blob/master/CLV%20Analysis.ipynb) - Calculate the CLV using a Pareto/NBD model.
 * [Cohort Analysis](https://github.com/iris9112/Customer-Segmentation/blob/master/Chapter1-Cohort_Analysis.ipynb) - Cohort analysis to group customers into mutually exclusive cohorts measured over time. 
 
  
