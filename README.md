@@ -1,13 +1,12 @@
 # Business Machine Learning and Data Science Applications 
 
-### Admin
+---------
 
-Have a look at the newly started [FirmAI Medium](https://medium.com/firmai) publication where we have experts of AI in business, write about their topics of interest. 
+## Sov.ai Research Lab (Sponsorship)
 
+Animated Investment Management Research at [Sov.ai](https://sov.ai) — Sponsoring open source AI, Machine learning, and Data Science initiatives.
 
-
-
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/business-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
+---------
 
 
 
